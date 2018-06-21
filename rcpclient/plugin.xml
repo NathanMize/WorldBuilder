@@ -12,6 +12,10 @@
                name="applicationCSS"
                value="platform:/plugin/worldbuilder.rcpclient/css/default.css">
          </property>
+         <property
+               name="appName"
+               value="worldbuilder.rcpclient">
+         </property>
       </product>
    </extension>
 

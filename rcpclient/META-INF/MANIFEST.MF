@@ -16,5 +16,6 @@ Require-Bundle: javax.inject;bundle-version="0.0.0",
   org.eclipse.core.runtime;bundle-version="0.0.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Automatic-Module-Name: worldbuilder.rcpclient
-Import-Package: javax.annotation;version="0.0.0"
+Import-Package: javax.annotation;version="1.0.0";resolution:=optional,
+  javax.inject;version="1.0.0"
 Bundle-ActivationPolicy: lazy

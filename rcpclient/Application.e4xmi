@@ -3,7 +3,7 @@
   <children xsi:type="basic:TrimmedWindow" xmi:id="_6wlLccgZEeSyMNYR5xypkQ" elementId="worldbuilder.rcpclient.window.main" label="WorldBuilder" width="500" height="400">
     <children xsi:type="basic:PartSashContainer" xmi:id="_6wlLksgZEeSyMNYR5xypkQ" elementId="worldbuilder.rcpclient.partsashcontainer.sample">
       <children xsi:type="basic:PartStack" xmi:id="_6wlLk8gZEeSyMNYR5xypkQ" elementId="worldbuilder.rcpclient.partstack.sample">
-        <children xsi:type="basic:Part" xmi:id="_6wlLlMgZEeSyMNYR5xypkQ" elementId="worldbuilder.rcpclient.part.sample" contributionURI="bundleclass://worldbuilder.rcpclient/worldbuilder.rcpclient.parts.SamplePart" iconURI="platform:/plugin/worldbuilder.rcpclient/icons/home.png" label="Sample Part"/>
+        <children xsi:type="basic:Part" xmi:id="_6wlLlMgZEeSyMNYR5xypkQ" elementId="worldbuilder.rcpclient.part.WorldViewer" contributionURI="bundleclass://worldbuilder.rcpclient/worldbuilder.rcpclient.parts.WorldViewerPart" label="World View" iconURI="platform:/plugin/worldbuilder.rcpclient/icons/globe.png"/>
       </children>
     </children>
     <mainMenu xmi:id="_6wlLicgZEeSyMNYR5xypkQ" elementId="org.eclipse.ui.main.menu">
